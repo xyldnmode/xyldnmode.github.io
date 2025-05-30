@@ -1,0 +1,29 @@
+body{
+    background-image: url(photo/a.jpg);
+    background-size: cover;
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+.photo{
+    width: 150px;
+    border-radius: 20px;
+}
+.logo{width: 100px;}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 10px 7px rgb(0, 0, 0);
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 10px 7px rgb(0, 0, 0);
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-shadow: 5px 10px 7px rgb(0, 0, 0);
+}
